@@ -1,0 +1,88 @@
+body {
+  background-color: black;
+}
+
+.main-container {
+  height: 700px;
+  background: url("title-container.png");
+  background-size: cover;
+}
+.header {
+  height: 100px;
+}
+.nav-link {
+  text-decoration: none;
+  font-size: 1.3em;
+  color: black;
+}
+.btn-outline-danger {
+  border-radius: 20px;
+  font-weight: 700;
+}
+.content {
+  height: 600px;
+}
+.title-img {
+  height: 600px;
+  background: url("img/t-2.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  position: relative;
+}
+
+.p-1 {
+  font-size: 1.4em;
+}
+.name-box {
+  width: 300px;
+  height: 100px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 550px;
+  left: 200px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.t-lang {
+  height: 300px;
+}
+.c {
+  width: 300px;
+  height: 150px;
+  background: url("img/toplang.jfif");
+  background-size: cover;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
+
+.demo {
+  height: 500px;
+}
+.card {
+  border-radius: 30px;
+}
+.card-img-top {
+  height: 250px;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.img-top-1 {
+  height: 240px;
+  width: 100%;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+}
+.courses {
+  height: 600px;
+}
+.trainer {
+  height: 600px;
+}
+.footer {
+  height: 100px;
+}
+.copyright {
+  line-height: 100px;
+}
